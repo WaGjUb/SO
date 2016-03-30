@@ -1,0 +1,3 @@
+1.Implemente e execute o exemplo de threads visto em sala, aula so__aula__006__threads, slide 45. 
+2.Implemente o exemplo de soma de vetores sequencial: vectoradd­sequencial.c 
+3.Implemente um programa usando  threads  na linguagem C para o cálculo da soma de dois vetores: C[i] =A[i] + B[i]. Permita que o usuário entre com o número de threads e com o número de elementos nos vetoresa partir da linha de comando (utilize argc e argv). Faça com que cada thread compute a mesma quantidadede somas que as demais. Utilize o utilitário time para comparar o tempo de execução com 1 thread e maisthreads. Qual a difereça dos tempos?
